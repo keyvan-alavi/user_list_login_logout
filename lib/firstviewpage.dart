@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:myloginlogout/widgets/widgets.dart';
-import 'package:myloginlogout/loginpage.dart';
-import 'package:myloginlogout/signuppage.dart';
-import 'package:myloginlogout/widgets/colors.dart';
+import '/widgets/widgets.dart';
+import '/loginpage.dart';
+import '/signuppage.dart';
+import '/widgets/colors.dart';
 
 class Firstviewpage extends StatelessWidget {
   const Firstviewpage({super.key});

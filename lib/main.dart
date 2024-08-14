@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myloginlogout/firstviewpage.dart';
+import 'firstviewpage.dart';
 
 void main() {
   runApp(const MyApp());

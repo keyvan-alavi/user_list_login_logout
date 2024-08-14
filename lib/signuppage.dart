@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:myloginlogout/widgets/widgets.dart';
-import 'package:myloginlogout/loginpage.dart';
-import 'package:myloginlogout/widgets/colors.dart';
-import 'package:myloginlogout/widgets/textfields.dart';
+import '/widgets/widgets.dart';
+import '/loginpage.dart';
+import '/widgets/colors.dart';
+import '/widgets/textfields.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'User.dart';

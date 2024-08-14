@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:myloginlogout/widgets/widgets.dart';
-import 'package:myloginlogout/after_login_go_to_this.dart';
-import 'package:myloginlogout/signuppage.dart';
-import 'package:myloginlogout/widgets/colors.dart';
-import 'package:myloginlogout/widgets/textfields.dart';
+import '/widgets/widgets.dart';
+import '/after_login_go_to_this.dart';
+import '/signuppage.dart';
+import '/widgets/colors.dart';
+import '/widgets/textfields.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'AppUserList.dart';
